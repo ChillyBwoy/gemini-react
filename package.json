@@ -17,7 +17,7 @@
     "gemini-react-server": "bin/gemini-react-server"
   },
   "peerDependecies": {
-    "gemini": ">= 4.7.2",
+    "gemini": ">= 7.4.1",
     "react": "15.x",
     "react-dom": "15.x",
     "webpack": "1.x"
